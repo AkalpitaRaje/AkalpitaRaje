@@ -35,7 +35,7 @@ I'm an MCA graduate interested in Data Analytics, Business Intelligence, and dat
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** [Akalpita Raje](https://www.linkedin.com/in/akalpita-raje-300542350/)
 - **GitHub:** [AkalpitaRaje](https://github.com/AkalpitaRaje)
 
 ---
