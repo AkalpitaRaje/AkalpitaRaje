@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Akalpita Raje 👋
 
-<!--
-**AkalpitaRaje/AkalpitaRaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm an MCA graduate interested in Data Analytics, Business Intelligence, and data-driven problem-solving. I enjoy working with data, exploring insights, and building projects that help transform raw data into meaningful information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Excel, Pandas
+- **Data Visualization:** Power BI, Matplotlib
+- **Database:** SQLite
+- **Tools:** Git, GitHub, Streamlit
+
+## 📊 Projects
+
+### 1. AI Resume Analyzer & Job Recommendation System
+- Analyzes resumes and extracts relevant skills.
+- Generates an ATS-style score and identifies missing skills.
+- Recommends relevant jobs using TF-IDF and Cosine Similarity.
+- **Technologies:** Python, Streamlit, NLP, Pandas, SQLite
+
+### 2. Pharmacy Sales & Inventory Analytics
+- Analyzes pharmacy sales and inventory data.
+- Examines revenue, stock availability, and medicine expiry information.
+- Uses data cleaning, analysis, and visualization to generate insights.
+- **Technologies:** Python, Pandas, Power BI
+
+## 🎯 Career Interests
+
+- Data Analytics
+- Business Intelligence
+- Business Analysis
+- Data Engineering
+
+## 📫 Connect With Me
+
+- **LinkedIn:** Add your LinkedIn profile URL here.
+- **GitHub:** [AkalpitaRaje](https://github.com/AkalpitaRaje)
+
+---
+
+*Thank you for visiting my profile!*
